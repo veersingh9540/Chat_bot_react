@@ -1,0 +1,10 @@
+1. setup redux app - manage appication state - done
+2. Setup reducers and action 
+3. Setup our frontend
+3.1 setup chat 
+3.2 chat queue 
+3.3  
+4. display msg to frontend user
+5. hamdle send msg to user and that 
+6. add bot responces
+7.formatting
